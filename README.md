@@ -1,4 +1,4 @@
-# week1-edithkojo-exercise
+# week1-project 1 edited by person 2
 
 Person 1 was here
 
